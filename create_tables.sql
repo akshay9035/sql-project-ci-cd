@@ -1,4 +1,4 @@
-
+drop table employee;
 create table Employee(
 ID number primary key ,
 firstname varchar(50),
