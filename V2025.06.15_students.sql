@@ -8,3 +8,4 @@ students_name varchar(30)
 
 insert into students_tb values(1,'akshay kumar');
 insert into students_tb values(2,'kiran kumar');
+insert into students_tb values(3,'konda kumar');
