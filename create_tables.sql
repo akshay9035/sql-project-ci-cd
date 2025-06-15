@@ -8,3 +8,6 @@ department varchar(50)
 
 insert into Employee values(1,'akshay','kumar','IT');
 insert into Employee values(2,'mukesh','yadav','QA');
+
+insert into Employee values(3,'ajay','yadav','DEV');
+
